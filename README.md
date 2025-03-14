@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaushikmohini10
-- 👀 I’m interested in learning and improving myslef
+- 👀 I’m interested in learning and improving myself
 - 🌱 I’m currently learning html and css
 
 <!---
